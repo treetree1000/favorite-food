@@ -7,6 +7,8 @@ public class FavoriteFood {
 		
 		System.out.println("私の好きな食べ物はプリンです。");
 		System.out.println("なぜなら、甘くて美味しいからです。");
+		System.out.println("私の好きな食べ物はコカコーラです。");
+		System.out.println("これは好きというよりは中毒です。");
 
 	}
 
