@@ -10,6 +10,7 @@ public class FavoriteFood {
 		System.out.println("私の好きな食べ物はコカコーラです。");
 		System.out.println("好きというよりは、中毒です。");
 		System.out.println("無くては困ります。特に夏。");
+		System.out.println("無くては困ります。特に冬。");
 
 	}
 
