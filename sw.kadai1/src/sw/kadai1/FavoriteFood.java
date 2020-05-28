@@ -10,8 +10,11 @@ public class FavoriteFood {
 		System.out.println("私の好きな飲み物はコカ・コーラです。");
 		System.out.println("ドリンクバーはコーラ飲み放題のためにあると思っています。");
 		System.out.println("特に夏の暑い日に飲むのは最高です！");
-        System.out.println("コーラよりカルピス派ですが何か。");
-        System.out.println("カラオケは、カルピスソーダ飲み放題の為にあると思ってます。");
+    
+    System.out.println("コーラよりカルピス派ですが何か。");
+    System.out.println("カラオケは、カルピスソーダ飲み放題の為にあると思ってます。");
+
+		Syatem.out.println("私はメロンソーダです");
 	}
 
 }
