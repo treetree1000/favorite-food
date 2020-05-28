@@ -15,6 +15,7 @@ public class FavoriteFood {
     System.out.println("カラオケは、カルピスソーダ飲み放題の為にあると思ってます。");
 
 		Syatem.out.println("私はメロンソーダです");
+		System.out.println("私は炭酸飲料を好みません。");
 	}
 
 }
